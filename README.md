@@ -7,7 +7,7 @@ Stores expense data in a **CSV file**, provides insightful analysis, and generat
 
 ## 📂 Project Structure
 
-ExpenseTracker/
+ExpenseTracker/\
 │
 ├── configuration/\
 │ └── configuration.py # Application configuration (file paths, constants)\
