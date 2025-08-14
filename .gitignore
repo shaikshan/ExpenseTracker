@@ -7,3 +7,8 @@
     .venv
     venv
     
+    # Ignore the generated files
+
+    *.txt
+    *.csv
+
