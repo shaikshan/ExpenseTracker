@@ -9,16 +9,16 @@ Stores expense data in a **CSV file**, provides insightful analysis, and generat
 
 ExpenseTracker/
 │
-├── configuration/
-│ └── configuration.py # Application configuration (file paths, constants)
+├── configuration/\
+│ └── configuration.py # Application configuration (file paths, constants)\
 │
-├── utils/
-│ └── utils.py # Helper functions (file handling, formatting, etc.)
+├── utils/\
+│ └── utils.py # Helper functions (file handling, formatting, etc.)\
 │
-├── expense_tracker/
-│ └── expense_tracker.py # Core expense tracker functionality
+├── expense_tracker/\
+│ └── expense_tracker.py # Core expense tracker functionality\
 │
-├── main.py # Entry point for running the application
+├── main.py # Entry point for running the application\
 └── README.md # Project documentation
 
 
