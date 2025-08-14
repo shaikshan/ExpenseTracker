@@ -1,0 +1,10 @@
+Expense Summary Report
+Generated at: 2025-08-14T12:52:03
+========================================
+Total spend: 6,000.00
+
+Spend by category:
+  - Rent: 6,000.00
+
+Top 3 categories:
+  1) Rent: 6,000.00
