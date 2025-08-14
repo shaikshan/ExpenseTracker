@@ -1,0 +1,12 @@
+Expense Summary Report
+Generated at: 2025-08-14T12:43:22
+========================================
+Total spend: 560.00
+
+Spend by category:
+  - Food: 300.00
+  - Transport: 260.00
+
+Top 3 categories:
+  1) Food: 300.00
+  1) Transport: 260.00
