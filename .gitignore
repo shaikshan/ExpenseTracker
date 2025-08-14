@@ -1,0 +1,9 @@
+        # Ignore build artifacts
+    /build/
+    *.log
+
+    # Ignore sensitive files
+    .env
+    .venv
+    venv
+    
